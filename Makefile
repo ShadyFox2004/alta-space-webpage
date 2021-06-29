@@ -1,2 +1,2 @@
 start:
-	docker build -t img-static-site-example .
+	docker build -t alta-space-frontend .
